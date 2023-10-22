@@ -48,6 +48,6 @@ public class BuyStepdefs {
         }
         assertEquals(stock, totalStock);
     }
-//    นาย พีรสิษฐ์ พลอยอร่าม 6410451237
+//    Peerasit Ployaram 6410451237
 }
 
