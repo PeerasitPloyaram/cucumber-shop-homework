@@ -1,3 +1,4 @@
 # Shop Example using Cucumber
 
-[Cucumber presentation slide](https://github.com/ladyusa/cucumber-atm/blob/master/cucumber.pdf)
+buy.feature cannot add comment Firstname Lastname and StudentId
+นาย พีรสิษฐ์ พลอยอร่าม 6410451237
